@@ -1,0 +1,34 @@
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Admin2\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Resources.frmCredits.resources
+D:\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.frmMain.resources
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.frmMain.resources
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.frmWelcome.resources
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.frmResult.resources
+C:\Users\Admin2\OneDrive\2019 - IBT COLLEGE\01-Subjects\C_C#\GitHub\RockPaperScissors_OLD\RockPaperScissors\obj\Debug\RockPaperScissors.frmCredits.resources
